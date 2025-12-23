@@ -1,5 +1,6 @@
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="Your Image Badge" /> -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=420690" style='border:none;'></iframe>
+<!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=420690" style='border:none;'></iframe> -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="Your Image Badge" />
 
 
 <div align="center">
